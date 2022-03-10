@@ -1,8 +1,8 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://adityarizqi7.github.io/adityara.github.io/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics                 = "G-MEASUREMENT_ID"                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
