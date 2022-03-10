@@ -1,4 +1,4 @@
-baseURL                          = "https://adityarizqi7.github.io/adityara.github.io/"   # Your domain name. Must end with "/"
+baseURL                          = "https://adityarizqi7.github.io/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
