@@ -1,0 +1,6 @@
+[submodule "myhugo/themes/introduction"]
+	path = myhugo/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "site-adit/themes/introduction"]
+	path = site-adit/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aditya Rizqi Ardhana</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Aditya Rizqi Ardhana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2022 12:13:16 +0700</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathtics App</title>
+      <link>http://example.com/projects/mathticsapp/</link>
+      <pubDate>Tue, 08 Mar 2022 23:31:46 +0700</pubDate>
+      
+      <guid>http://example.com/projects/mathticsapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MathticsApp</title>
+      <link>http://example.com/blog/mathticsapp/</link>
+      <pubDate>Wed, 09 Mar 2022 12:13:16 +0700</pubDate>
+      
+      <guid>http://example.com/blog/mathticsapp/</guid>
+      <description>Mathtics App ReleaseI am very happy because I have released one of the projects that I have made. This project is called Mathtics App. Initially this project was made because at that time I was dumbfounded and suddenly thought of making an auxiliary calculator to work on math problems and so finally I immediately made the application and finished it. For now the application is in the development stage, there are still only a few features added and maybe in the future there will be features that can be used by users.</description>
+    </item>
+    
+    <item>
+      <title>Recloud Challenge 2021</title>
+      <link>http://example.com/blog/challenge/</link>
+      <pubDate>Tue, 08 Mar 2022 12:13:16 +0700</pubDate>
+      
+      <guid>http://example.com/blog/challenge/</guid>
+      <description>Recloud Challenges 2021In 2021, an event has been held for programmers, especially web programmers for the most beautiful and good website possible because there is a prize with a large nominal for the winner of the event. At the event I participated and got a certificate</description>
+    </item>
+    
+    <item>
+      <title>Hello, I&#39;am Adit</title>
+      <link>http://example.com/home/</link>
+      <pubDate>Fri, 06 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/home/</guid>
+      <description>I&amp;rsquo;m web progammer and works on Startup</description>
+    </item>
+    
+  </channel>
+</rss>
