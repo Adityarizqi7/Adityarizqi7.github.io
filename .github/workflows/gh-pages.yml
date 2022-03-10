@@ -35,10 +35,9 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-
-      - name: Build
-        run: npm ci
-        run: hugo --minify
+    
+      run: npm ci
+      run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
